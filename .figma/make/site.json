@@ -1,0 +1,10 @@
+{
+  "description": "Explore a responsive website with interactive navigation, image slideshows, and popups, designed for a seamless experience across desktop, tablet, and mobile.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
